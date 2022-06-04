@@ -1,0 +1,10 @@
+.box{
+    margin-left: 1px;
+    padding: 4px;
+    border: 1px solid #ccc;
+    width: 150px;
+}
+
+h1{
+    background-color:gold;
+}
